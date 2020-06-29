@@ -1,9 +1,10 @@
 const pkg = require('./package')
 
 module.exports = {
-  apiKey: 'AIzaSyDBM8REAXrMtwLbO0Dv1iL6hEaU-jzVdFk',
-  projectId: 'vueshop-30fea',
-  authDomain: 'vueshop-30fea.firebaseapp.com',
+  apiKey: "AIzaSyCgwAhTr_xxihZ47AG5Zv4Z5EGkeKPqPJk",
+  authDomain: "delivery-e7702.firebaseapp.com",
+  databaseURL: "https://delivery-e7702.firebaseio.com",
+  projectId: "delivery-e7702",
   ANALYTICS_TRACKING_ID: 'UA-49421899-3',
   clearCart: true, // Whether to clear the cart after order is placed. Useful while testing
   currency: { symbol: '₹', code: 'INR' },
